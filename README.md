@@ -1,9 +1,5 @@
 ## Welcome to GitHub Pages
 
-<h1>
-  Amanda is amazing!
-  </h1>
-
 
 You can use the [editor on GitHub](https://github.com/Viscerally/Viscerally.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
