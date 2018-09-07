@@ -121,7 +121,7 @@ h2.title:after {
   display: inline-block;
   width: 100%;
   vertical-align: middle;
-  border-bottom: 4px solid blueviolet;;
+  border-bottom: 4px solid #212EBA;;
   overflow: hidden;
   justify-content: space-around;
 }
