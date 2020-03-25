@@ -315,7 +315,7 @@ a.button-nested:hover::after {border-color: #00a6cc transparent transparent tran
 }
 
 .footer p {
-  color: ##8484EF;
+  color: #8484EF;
   font-size: 14px;
 }
 
@@ -402,7 +402,7 @@ a.button-nested:hover::after {border-color: #00a6cc transparent transparent tran
 }
 
 
-#mybtn {
+#myBtn {
   display: none;
   position: fixed; 
   bottom: 20px; 
